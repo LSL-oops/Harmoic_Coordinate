@@ -123,6 +123,33 @@ HarmonicCoordinateDemo/fast:
 	$(MAKE) -f CMakeFiles/HarmonicCoordinateDemo.dir/build.make CMakeFiles/HarmonicCoordinateDemo.dir/build
 .PHONY : HarmonicCoordinateDemo/fast
 
+glad.o: glad.c.o
+
+.PHONY : glad.o
+
+# target to build an object file
+glad.c.o:
+	$(MAKE) -f CMakeFiles/HarmonicCoordinateDemo.dir/build.make CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o
+.PHONY : glad.c.o
+
+glad.i: glad.c.i
+
+.PHONY : glad.i
+
+# target to preprocess a source file
+glad.c.i:
+	$(MAKE) -f CMakeFiles/HarmonicCoordinateDemo.dir/build.make CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.i
+.PHONY : glad.c.i
+
+glad.s: glad.c.s
+
+.PHONY : glad.s
+
+# target to generate assembly for a file
+glad.c.s:
+	$(MAKE) -f CMakeFiles/HarmonicCoordinateDemo.dir/build.make CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.s
+.PHONY : glad.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HarmonicCoordinateDemo"
 	@echo "... edit_cache"
+	@echo "... glad.o"
+	@echo "... glad.i"
+	@echo "... glad.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -819,3 +819,35 @@ make[1]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/
     Feature record: CXX_FEATURE:0cxx_variable_templates
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_84ae5/fast 
+make[1]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_84ae5.dir/build.make CMakeFiles/cmTC_84ae5.dir/build
+make[2]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_84ae5.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fPIC    -o CMakeFiles/cmTC_84ae5.dir/CheckIncludeFile.c.o   -c /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_84ae5
+/home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84ae5.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC     CMakeFiles/cmTC_84ae5.dir/CheckIncludeFile.c.o  -o cmTC_84ae5 
+make[2]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7bc39/fast 
+make[1]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7bc39.dir/build.make CMakeFiles/cmTC_7bc39.dir/build
+make[2]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7bc39.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_7bc39.dir/CheckFunctionExists.c.o   -c /home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7bc39
+/home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7bc39.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_7bc39.dir/CheckFunctionExists.c.o  -o cmTC_7bc39 -lpthread 
+make[2]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+

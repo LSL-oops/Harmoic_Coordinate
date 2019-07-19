@@ -34,6 +34,8 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/local/cuda/include"/>
+					<Add directory="/usr/local/cuda-10.1/targets/x86_64-linux/include"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -57,6 +59,8 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/local/cuda/include"/>
+					<Add directory="/usr/local/cuda-10.1/targets/x86_64-linux/include"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -84,6 +88,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o">
+			<Option target="HarmonicCoordinateDemo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/CLionProjects/HarmonicCoordinateDemo/glad.c">
+			<Option target="HarmonicCoordinateDemo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/CLionProjects/HarmonicCoordinateDemo/kernel.cu">
+			<Option target="HarmonicCoordinateDemo"/>
+		</Unit>
 		<Unit filename="/home/shuliang/CLionProjects/HarmonicCoordinateDemo/main.cpp">
 			<Option target="HarmonicCoordinateDemo"/>
 		</Unit>

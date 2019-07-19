@@ -57,9 +57,166 @@ include CMakeFiles/HarmonicCoordinateDemo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/HarmonicCoordinateDemo.dir/flags.make
 
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: ../kernel.cu
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: ../kernel.cuh
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/alloca.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/assert.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/concept_check.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/cpp_type_traits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/cxxabi_init_exception.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/exception.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/exception_defines.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/exception_ptr.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/hash_bytes.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/move.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/nested_exception.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/bits/std_abs.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/cmath
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/cstdlib
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/exception
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/ext/type_traits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/math.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/new
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/stdlib.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/type_traits
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/c++/7/typeinfo
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/endian.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/features.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/limits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/linux/limits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/math.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/stdc-predef.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/stdio.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/stdlib.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/string.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/strings.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/time.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/_G_config.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/byteswap-16.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/byteswap.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/endian.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/floatn-common.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/floatn.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/fp-fast.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/fp-logb.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/iscanonical.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/libc-header-start.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/libio.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/local_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/long-double.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/math-vector.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/mathcalls.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/posix1_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/posix2_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/select.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/stdint-intn.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/sys_errlist.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/sysmacros.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/time.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/timex.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/FILE.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/clock_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/time_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/types/timer_t.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/typesizes.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/uintn-identity.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/uio_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/waitflags.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/waitstatus.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/wordsize.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/bits/xopen_lim.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/c++/7/bits/cpu_defines.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/gnu/stubs-64.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/gnu/stubs.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/sys/cdefs.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/sys/select.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/sys/sysmacros.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/include/x86_64-linux-gnu/sys/types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/builtin_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/channel_descriptor.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/common_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/device_double_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/device_double_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/device_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/device_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/host_config.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/host_defines.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/math_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/math_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/sm_70_rt.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/crt/sm_70_rt.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/cuda_device_runtime_api.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/cuda_runtime.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/cuda_runtime_api.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/cuda_surface_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/cuda_texture_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/device_atomic_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/device_atomic_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/device_launch_parameters.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/device_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/driver_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/driver_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/library_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_20_atomic_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_20_atomic_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_20_intrinsics.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_20_intrinsics.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_30_intrinsics.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_30_intrinsics.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_32_atomic_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_32_atomic_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_32_intrinsics.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_32_intrinsics.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_35_atomic_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_35_intrinsics.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_60_atomic_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_60_atomic_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_61_intrinsics.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/sm_61_intrinsics.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/surface_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/surface_indirect_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/surface_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/texture_fetch_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/texture_indirect_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/texture_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/vector_functions.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/vector_functions.hpp
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: /usr/local/cuda/include/vector_types.h
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o.Debug.cmake
+CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o: ../kernel.cu
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building NVCC (Device) object CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o"
+	cd /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir && /home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -E make_directory /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir//.
+	cd /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir && /home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING=Debug -D generated_file:STRING=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir//./HarmonicCoordinateDemo_generated_kernel.cu.o -D generated_cubin_file:STRING=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir//./HarmonicCoordinateDemo_generated_kernel.cu.o.cubin.txt -P /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir//HarmonicCoordinateDemo_generated_kernel.cu.o.Debug.cmake
+
 CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o: CMakeFiles/HarmonicCoordinateDemo.dir/flags.make
 CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o -c /home/shuliang/CLionProjects/HarmonicCoordinateDemo/main.cpp
 
 CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.i: cmake_force
@@ -70,17 +227,37 @@ CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuliang/CLionProjects/HarmonicCoordinateDemo/main.cpp -o CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.s
 
+CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o: CMakeFiles/HarmonicCoordinateDemo.dir/flags.make
+CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o: ../glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o   -c /home/shuliang/CLionProjects/HarmonicCoordinateDemo/glad.c
+
+CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shuliang/CLionProjects/HarmonicCoordinateDemo/glad.c > CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.i
+
+CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shuliang/CLionProjects/HarmonicCoordinateDemo/glad.c -o CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.s
+
 # Object files for target HarmonicCoordinateDemo
 HarmonicCoordinateDemo_OBJECTS = \
-"CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o"
+"CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o" \
+"CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o"
 
 # External object files for target HarmonicCoordinateDemo
-HarmonicCoordinateDemo_EXTERNAL_OBJECTS =
+HarmonicCoordinateDemo_EXTERNAL_OBJECTS = \
+"/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o"
 
 HarmonicCoordinateDemo: CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o
+HarmonicCoordinateDemo: CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o
+HarmonicCoordinateDemo: CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o
 HarmonicCoordinateDemo: CMakeFiles/HarmonicCoordinateDemo.dir/build.make
+HarmonicCoordinateDemo: /usr/local/cuda/lib64/libcudart_static.a
+HarmonicCoordinateDemo: /usr/lib/x86_64-linux-gnu/librt.so
+HarmonicCoordinateDemo: /usr/lib/x86_64-linux-gnu/librt.so
 HarmonicCoordinateDemo: CMakeFiles/HarmonicCoordinateDemo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable HarmonicCoordinateDemo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable HarmonicCoordinateDemo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HarmonicCoordinateDemo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -92,7 +269,7 @@ CMakeFiles/HarmonicCoordinateDemo.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/HarmonicCoordinateDemo.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/HarmonicCoordinateDemo.dir/clean
 
-CMakeFiles/HarmonicCoordinateDemo.dir/depend:
+CMakeFiles/HarmonicCoordinateDemo.dir/depend: CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o
 	cd /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/shuliang/CLionProjects/HarmonicCoordinateDemo /home/shuliang/CLionProjects/HarmonicCoordinateDemo /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/HarmonicCoordinateDemo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HarmonicCoordinateDemo.dir/depend
 

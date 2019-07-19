@@ -1,0 +1,59 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a16eb/fast 
+make[1]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_a16eb.dir/build.make CMakeFiles/cmTC_a16eb.dir/build
+make[2]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a16eb.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -fPIC    -o CMakeFiles/cmTC_a16eb.dir/CheckSymbolExists.c.o   -c /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a16eb
+/home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a16eb.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC     CMakeFiles/cmTC_a16eb.dir/CheckSymbolExists.c.o  -o cmTC_a16eb 
+CMakeFiles/cmTC_a16eb.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a16eb.dir/build.make:86: recipe for target 'cmTC_a16eb' failed
+make[2]: *** [cmTC_a16eb] Error 1
+make[2]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_a16eb/fast' failed
+make[1]: *** [cmTC_a16eb/fast] Error 2
+make[1]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+File /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_00265/fast 
+make[1]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_00265.dir/build.make CMakeFiles/cmTC_00265.dir/build
+make[2]: Entering directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_00265.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_00265.dir/CheckFunctionExists.c.o   -c /home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_00265
+/home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_00265.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_00265.dir/CheckFunctionExists.c.o  -o cmTC_00265 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_00265.dir/build.make:86: recipe for target 'cmTC_00265' failed
+make[2]: *** [cmTC_00265] Error 1
+make[2]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_00265/fast' failed
+make[1]: *** [cmTC_00265/fast] Error 2
+make[1]: Leaving directory '/home/shuliang/CLionProjects/HarmonicCoordinateDemo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+

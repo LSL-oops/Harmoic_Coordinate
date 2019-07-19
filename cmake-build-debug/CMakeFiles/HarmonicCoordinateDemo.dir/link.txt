@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o  -o HarmonicCoordinateDemo 
+/usr/bin/c++  -g   CMakeFiles/HarmonicCoordinateDemo.dir/main.cpp.o CMakeFiles/HarmonicCoordinateDemo.dir/glad.c.o CMakeFiles/HarmonicCoordinateDemo.dir/HarmonicCoordinateDemo_generated_kernel.cu.o  -o HarmonicCoordinateDemo  -L/lib/x64 -Wl,-rpath,/lib/x64 /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so -lglfw -ldl /usr/lib/x86_64-linux-gnu/librt.so -lglfw 
